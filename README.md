@@ -1,5 +1,5 @@
 
-<h1 align="center"> <a href="https://graceful-bubblegum-b08938.netlify.app/"> Digital Business Card </a> </h1>
+<h1 align="center"> <a href="https://dan-herz-react-digital-business-card.netlify.app/"> Digital Business Card </a> </h1>
 
 <h3 align="center">Created with React</h3> 
 
