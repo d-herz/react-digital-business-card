@@ -5,7 +5,7 @@
 
 <h3 align="left">About this project:</h3>
 <p align="left">
-This Digital Business Card was created along with the "Learn React" Scrimba Course. 
+This is my Digital Business Card!  
 </p>
 
 
